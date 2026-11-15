@@ -1,25 +1,128 @@
-
-
-
-
-
-
-             𝗙𝗨𝗖𝗞
-
-
-
-
-
-
-
-                          𝗜𝗗 
-
-
-
-
-
-
-
-
-
-         𝗠𝗔𝗥𝗔 𝗞𝗛𝗔𝗕𝗜 😁
+[
+	{
+		"key": "datr",
+		"value": "gHz5alXb2ksgfrI5unc-ln4E",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "sb",
+		"value": "gHz5am5w_ASdhla8TSIS9VuE",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "2.5500001907348633",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "wd",
+		"value": "360x820",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.989Z",
+		"lastAccessed": "2026-11-15T15:29:05.989Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61595828049191",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "xs",
+		"value": "11%3A2U47mn8E5K1G3w%3A2%3A1794755778%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "pas",
+		"value": "61595828049191%3AAGDgSzCiPG",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B743x360x2.5500001907348633",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "fr",
+		"value": "06v9gbFTq2ph11IK6.AWcHamp8OvoyXwIlGNotFnSc6V2fz28AbTYZ-TWuS7L0YlCLoRY.Bq-XyA..AAA.0.0.Bq-czP.AWdxeHp3o10SEWJ6SfnQ9bHPG0Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101735963%3BT%3A29912596",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3357%3Btimestamp%3A1794755791",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-11-15T15:29:05.990Z",
+		"lastAccessed": "2026-11-15T15:29:05.990Z"
+	}
+]
